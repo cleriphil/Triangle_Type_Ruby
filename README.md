@@ -1,4 +1,4 @@
-# Triangle Type
+## Triangle Type
 
 ###Description:
 Triangle Type determines the three lengths of a triangle to determine 
